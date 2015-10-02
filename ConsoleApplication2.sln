@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.csproj", "{A6439782-2FF9-484A-9134-855F1B7852C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonParser", "JsonParser\JsonParser.csproj", "{C5F670AB-A39A-4AAE-9E49-DB322B608F82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6439782-2FF9-484A-9134-855F1B7852C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6439782-2FF9-484A-9134-855F1B7852C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6439782-2FF9-484A-9134-855F1B7852C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6439782-2FF9-484A-9134-855F1B7852C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F670AB-A39A-4AAE-9E49-DB322B608F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F670AB-A39A-4AAE-9E49-DB322B608F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F670AB-A39A-4AAE-9E49-DB322B608F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F670AB-A39A-4AAE-9E49-DB322B608F82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
